@@ -1,0 +1,10 @@
+# catalina hoyos y  ana muñoz 25/04/2024
+
+#  operadores aritmeticos
+
+print(33 + 22) # suma
+print( 33 - 22 ) # resta
+print ( 33 * 22) # multiplicacion
+print ( 33 / 22 ) # division
+print( 33 ** 22 ) #potenciacion
+print ( 33 % 22 ) # modulo
